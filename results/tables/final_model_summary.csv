@@ -1,0 +1,4 @@
+Model,Features,Accuracy,Precision,Recall,F1_Score,ROC_AUC
+Random Forest,30,0.9742,0.9696,0.9846,0.977,0.9977
+Decision Tree,30,0.9711,0.9702,0.9781,0.9741,0.9805
+Gradient Boosting,30,0.953,0.9533,0.9626,0.958,0.9921
